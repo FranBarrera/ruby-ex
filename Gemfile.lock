@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    sinatra
-    redis
+    sinatra (1.4.6)
+    redis (~> 3)
     rack (1.6.4)
 
 PLATFORMS
