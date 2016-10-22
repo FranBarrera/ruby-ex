@@ -1,14 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    puma (3.4.0)
+    sinatra
+    redis
     rack (1.6.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  puma
+  sinatra
+  redis
   rack
 
 BUNDLED WITH
