@@ -1,5 +1,5 @@
 require "sinatra"
 require "ruby"
-require "./hello-world.rb"
+require "./myapp.rb"
 
-run hello-world.rb
+run Myapp
