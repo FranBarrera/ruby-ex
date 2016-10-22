@@ -1,17 +1,1 @@
-GEM
-  remote: https://rubygems.org/
-  specs:
-    sinatra (1.4.6)
-    redis (~> 3)
-    rack (1.6.4)
 
-PLATFORMS
-  ruby
-
-DEPENDENCIES
-  sinatra
-  redis
-  rack
-
-BUNDLED WITH
-   1.11.2
