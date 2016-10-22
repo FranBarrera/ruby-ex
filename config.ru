@@ -1,5 +1,6 @@
-require "sinatra"
-require "ruby"
-require "./myapp.rb"
+#\ -p 8080
+require './app'
 
-run Myapp
+$stdout.sync = true
+$stderr.sync = true
+run Sinatra::Application
