@@ -1,5 +1,5 @@
-require 'sinatra'
-require 'redis'
-require 'rack'
+require "sinatra"
+require "ruby"
+require "./hello-world.rb"
 
 run hello-world.rb
